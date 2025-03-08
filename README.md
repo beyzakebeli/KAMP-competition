@@ -1,6 +1,6 @@
 # KAMP Competition  
 
-This repository contains the source code and final report for the **"제4회 K-인공지능 제조데이터 분석 경진대회 (4th K-Artificial Intelligence Manufacturing Data Analysis Competition)."**  
+This repository contains the source code and final report of **Team FEB42** (Beyza Nur Kebeli and Eda Atalay) for the **"제4회 K-인공지능 제조데이터 분석 경진대회" (4th K-Artificial Intelligence Manufacturing Data Analysis Competition).**
 
 ### 🏆 Competition Task  
 The competition focused on **improving productivity and enhancing the working environment in root industries (casting) companies** through artificial intelligence algorithms. Participants were required to:  
