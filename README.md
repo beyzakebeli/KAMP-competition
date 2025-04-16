@@ -24,5 +24,4 @@ The dataset used for this competition is available on the [**KAMP** website](htt
 📌 **"주조 공정최적화 제조AI데이터셋"**  
 
 ### Note:
-- 🔜 **Source code** will be uploaded soon.  
 - 🔜 **English version of the report** will be made available.  
